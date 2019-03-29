@@ -35,17 +35,20 @@ and one file from github for Regions
 
 **5-** World Regions file: world\_regions.csv
 
+
 **2nd Step: Data Wrangling**
 
-**2-1- Gathering and reading data**
+**2-1-** Gathering and reading data**
 
-**2-2- Assessing the data and Building Intuition**
+**2-2-** Assessing the data and Building Intuition**
 
-**2-3- Cleaning Data**
+**2-3-** Cleaning Data**
+
 
 **3rd Step: Exploratory Data Analysis**
 
 Research questions answers
+
 
 **The Conclusion**
 
