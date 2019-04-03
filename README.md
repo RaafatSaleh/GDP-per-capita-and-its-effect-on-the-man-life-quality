@@ -60,4 +60,10 @@ Research questions answers
 
 **4.** Europe region is growing in the four metrics over the years and Asia comes after Europe in GDP and Income but Americas come the second in HDI and Life Expectancy and Africa comes in the end of the list of regions in all metrics (as expected)
 
+<<<<<<< HEAD
 **5.** According to my selected countries, UAE comes the first in GDP and Income however Australia comes first in HDI and Life Expectancy, but Egypt occupy the last one of the list in GDP and Income as shown in previous bar and line charts.
+||||||| merged common ancestors
+5. According to my selected countries, UAE comes the first in GDP and Income however Australia comes first in HDI and Life Expectancy, but Egypt occupy the last one of the list in GDP and Income as shown in previous bar and line charts.
+=======
+**5.** According to my selected countries, UAE comes the first in GDP and Income however Australia comes first in HDI and Life Expectancy, but Egypt occupy the last one of the list in GDP and Income as shown in previous bar and line charts.
+>>>>>>> c7fd25ae2795034411c770088363c85735c22d5d
